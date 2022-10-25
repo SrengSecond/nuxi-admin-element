@@ -1,3 +1,8 @@
+
 <template>
-  <h1>about</h1>
+  <div>
+    <p>{{ $t('text.hello') }}</p>
+  </div>
+  
 </template>
+

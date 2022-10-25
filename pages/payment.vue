@@ -1,3 +1,3 @@
 <template>
-  <h1>Payment</h1>
+ <p>{{ $t('text.hello') }}</p>
 </template>
